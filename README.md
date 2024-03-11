@@ -13,7 +13,6 @@
  
  🌱 I’m currently learning **PHP & SQL**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -32,7 +31,7 @@
 <h2 align="center"> Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,php,git,mysql,sass,gulp,r" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,php,git,mysql,sass,gulp" />
 </div>
 
 <br/>
