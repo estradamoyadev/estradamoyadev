@@ -11,7 +11,7 @@
  
  🔭 I’m currently working as a Freelancer
  
- 🌱 I’m currently learning **PHP & SQL**
+ 🌱 I’m currently learning **REACT & TYPESCRIPT**
 
 
  </div>
