@@ -31,7 +31,7 @@
 <h2 align="center"> Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,php,git,mysql,sass,gulp" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,php,git,mysql,sass,gulp" />
 </div>
 
 <br/>
